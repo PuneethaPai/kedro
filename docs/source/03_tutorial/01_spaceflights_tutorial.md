@@ -45,9 +45,9 @@ When building a Kedro project, you will typically follow a standard development 
 
 ### Creating a project repository
 
-We recommend that you use `git` for source control, but Kedro doesn't it, and can work without any source control management system. This section is optional if you choose not to use a `git` repository.
+We recommend that you use `git` for source control, but Kedro doesn't depend on it, and can work without any source control management system. This section is optional if you choose not to use a `git` repository.
 
-> Note: If you are unfamiliar with a typical git workflow, you can follow one of the most popular, known as [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
+> Note: If you are unfamiliar with a typical git workflow, you can follow one of the most popular workflow, known as [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
 
 If you don't have a local `git` repository for your project already, navigate to the project directory and create one:
 
